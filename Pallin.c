@@ -4,6 +4,7 @@ int main()
 int n,r,sum=0,temp;    
 printf("enter the number=");    
 scanf("%d",&n);    
+/* This is the syntax */
 temp=n;    
 while(n>0)    
 {    
